@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class Character : MonoBehaviour {
 
+    public string charname;
+    public List<string> likes;
+    public List<string> dislikes;
+    public Dictionary<string, Dictionary<string, List<string>>> questions = new Dictionary<string, Dictionary<string, List<string>>>();
+
 	// Use this for initialization
 	void Start () {
 		

@@ -1,0 +1,31 @@
+*Pascal, the Philosopher
+^Neutral
+_Strong
+
+*Stella, the Superstitious One
+^Space
+^Astrology
+^Superstition
+
+*Dwayne, the Athlete
+^Physical
+^Social
+_Education
+_Lazy
+_Antisocial
+?u down to go gym later?
+!Agree,Physical,Social
+!Disagree,Lazy,Antisocial
+
+*Gerard, the Downer
+^Disagree
+^Neutral
+^Music
+^Antisocial
+_Agree
+_Physical
+_Social
+
+*Jim, the Yes Man
+^Agree
+_Disagree
