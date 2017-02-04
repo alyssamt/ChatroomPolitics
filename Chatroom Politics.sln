@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E28F5E11-72EA-DABA-E7C3-3A3C1133E04C}") = "Chatroom Politics", "Assembly-CSharp.csproj", "{395789FE-95AE-14FC-F543-3830B7078E74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395789FE-95AE-14FC-F543-3830B7078E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395789FE-95AE-14FC-F543-3830B7078E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395789FE-95AE-14FC-F543-3830B7078E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395789FE-95AE-14FC-F543-3830B7078E74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

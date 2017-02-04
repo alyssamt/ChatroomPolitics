@@ -1,0 +1,15 @@
+
+GAME FLOW:
+- Choose goal: certain relationships with certain characters, by a certain event/time
+	- Pre-made story situations
+	- Randomly generated
+- Player joins chatroom. Other characters join and leave periodically. They chat with each other and when they address the player, the player has several buttons to respond with.
+	- Agree/Disagree/Neutral
+	- Laugh/Compliment
+	- Ignore
+	- Insult
+	- Mention other character
+- Each response has an effect on all relevant characters in the chatroom. Characters with close relationships may also pass on information to other characters outside of the chatroom.
+- Game follows a timeline with events happening at intervals. Player must reach relationship goals by the deadline.
+
+
